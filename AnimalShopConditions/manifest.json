@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Animal Shop Conditions",
+  "Author": "elbe",
+  "Version": "1.0",
+  "Description": "Allows conditions to be set for animal purchases",
+  "UniqueID": "elbe.AnimalShopConditions",
+  "Dependencies": [
+
+    {
+      "UniqueID": "Cherry.ExpandedPreconditionsUtility",
+      "MinimumVersion": "1.0.0"
+    }
+  ]
+}
